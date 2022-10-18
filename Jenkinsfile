@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Stage 2') { 
             steps {
-                sleep 10 
+                sleep 15 
             }
         }
         stage('Stage 3') { 
